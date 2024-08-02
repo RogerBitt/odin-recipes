@@ -1,0 +1,14 @@
+* {
+    background-color: bisque;
+}
+h1 {
+    font-weight: bold;
+    font-family: helvetica;
+    text-decoration: underline;
+    }
+
+img {
+    height: 300px;
+    width: auto;
+    border-radius: 10px;
+}    

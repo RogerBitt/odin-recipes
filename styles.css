@@ -1,0 +1,24 @@
+* {
+    background-color: bisque;
+}
+
+h1 {
+    font-size: xxx-large;
+    color: rgb(12, 104, 12);
+    font-family: helvetica;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.recipes {
+    font-size: xx-large;
+    font-family: helvetica;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border-radius: 100%;
+
+}
